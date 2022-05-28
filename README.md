@@ -6,6 +6,6 @@ A partir dos conhecimento que adquiri nas ultimas semana em relação a Programa
 
 # Tech
 
-Python 
-Mysql
+- Python 
+- Mysql
 
