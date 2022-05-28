@@ -20,3 +20,5 @@ Já neste outro modulo é feito a criação do meu objeto, é definido os parâm
 
 
 ![cadastro](https://user-images.githubusercontent.com/106001465/170809642-3ce65e48-b1c8-4627-b2e0-7448410ee7da.PNG)
+
+Usei como exemplo o cadastro de um cliente empresa, mais é o mesmo processo tanto para o cadastro de um fornecedor como para o cadastro de um cliente fisíco.
